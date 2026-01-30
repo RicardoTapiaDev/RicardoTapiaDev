@@ -32,7 +32,6 @@ heigh="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <!-- Herramientas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 </p>
 
@@ -61,6 +60,7 @@ heigh="40"/>
 - GitHub: [RicardoTapiaDev](https://github.com/RicardoTapiaDev)
 - LinkedIn: [*(agrega tu enlace si lo tienes)*](https://www.linkedin.com/in/ricardo-javier-tapia-contreras-125474257/)
 - Email: *rtapiacontreras26@gmail.com*
+- YouTube: *https://www.youtube.com/@StarSecDev*
 
 ---
 ⭐️ Created by [RicardoTapiaDev](https://github.com/RicardoTapiaDev)
