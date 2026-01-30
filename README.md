@@ -7,8 +7,9 @@
 - 💻 Growing programmer: I have mastered the basics of programming and am proficient at an intermediate level in various languages, currently delving deeper into **Rust**, with the goal of creating secure, robust, and cross-platform applications.
 - 🎥 **Creador de contenido en YouTube**, donde comparto conocimiento prácticos, experimentos y reflexiones acerca de la tecnología a diferentes audiencias.
 - 📚 I am a **autodidact** person passionate about deep learning and an explorer of the various areas where the technical and the creative intersect.
+- 📖 I love read books and research.
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
   <!-- Sistemas Operativos -->
@@ -35,15 +36,16 @@ heigh="40"/>
 
 ## 💼 My projects
 
-- **Calculadora rápida en terminal** 🧮 Optimizada para funcionar en Bash, Powershell y Consola de windows.
+- **Calculadora rápida en terminal** 🧮 Optimizada para funcionar en Bash, Powershell y Consola de windows. [Repositorio](#)
 - **Gestor de Contraseñas en Rust** 🔐 Proyecto en desarrollo orientado a la seguridad y multiplataforma, explorando buenas prácticas en Rust. [Repositorio](#)
-- **Modificación de Sistema Operativo Linux Mint** 💻 Modificación profunda.
-- **Modificación de Sistema Operativo Android** 📱 Para instalación de LineageOS
+- **Modelo local de IA** 📱 Asistente del Sistema Operativo en Linux [Repositorio](#)
+- **Modificación de Sistema Operativo Linux Mint** 💻 Modificación profunda. [Repositorio](#)
+- **Modificación de Sistema Operativo Android** 📱 Para instalación de LineageOS [Repositorio](#)
 - **Producción de contenido educativo sobre ciencia y tecnología** 🎥 *(enlace a tu canal)*
-- - **Automatización de Flujos en Linux** 🐧 Desarrollo de Scripts personalizados para optimizar tareas repetitivas y mejorar la productividad en entornos Linux. [Repositorio](#)
+- **Automatización de Flujos en Linux** 🐧 Desarrollo de Scripts personalizados para optimizar tareas repetitivas y mejorar la productividad en entornos Linux. [Repositorio](#)
 
 ## 📈 Current Goals
-- Probando código (Todo el tiempo)
+- Test code (Always)
 - Consolidando conocimientos avanzados en Sistemas Operativos GNU/Linux y WindowsOS
 - Consolidando bases en ciberseguridad (Redes, protocolos, vectores de ataque, capas de seguridad, prácticas seguras).
 - Desarrollando proyectos en Rust orientados a la seguridad.
