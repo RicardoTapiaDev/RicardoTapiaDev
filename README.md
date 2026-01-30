@@ -47,20 +47,21 @@ heigh="40"/>
 
 ## 💼 My projects
 
-- **Calculadora rápida en terminal** 🧮 Optimizada para funcionar en Bash, Powershell y Consola de windows. [Repositorio](#)
-- **Gestor de Contraseñas en Rust** 🔐 Proyecto en desarrollo orientado a la seguridad y multiplataforma, explorando buenas prácticas en Rust. [Repositorio](#)
-- **Modelo local de IA** 📱 Asistente del Sistema Operativo en Linux [Repositorio](#)
-- **Modificación de Sistema Operativo Linux Mint** 💻 Modificación profunda. [Repositorio](#)
-- **Modificación de Sistema Operativo Android** 📱 Para instalación de LineageOS [Repositorio](#)
-- **Producción de contenido educativo sobre ciencia y tecnología** 🎥 *(enlace a tu canal)*
-- **Automatización de Flujos en Linux** 🐧 Desarrollo de Scripts personalizados para optimizar tareas repetitivas y mejorar la productividad en entornos Linux. [Repositorio](#)
+- **Fast terminal calculator** 🧮 Optimized to run in Bash, PowerShell, and Windows console. [Repositorio](#)
+- **Rust Password Manager** 🔐 Work-in-progress project focused on security, easy to use and cross-platform support, exploring best practices in Rust. [Repositorio](#)
+- **Local AI Model** 📱 A GNU-Linux operating system assistant. [Repository](#)
+- **Linux Mint OS Modification** 💻 Deep customization and system-level adjustments. [Repository](#)
+- **Android OS Modification** 📱 Hard customization for installing LineageOS. [Repository](#)-
+- **I create technology-focused content** 🎥 *https://www.youtube.com/@StarSecDev*
+- **Linux Workflow Automation** 🐧 I creaate custom scripts designed to streamline repetitive tasks and give a boost productivity in Linux environments. [Repository](#)
 
 ## 📈 Current Goals
 - Test code (Always)
-- Consolidando conocimientos avanzados en Sistemas Operativos GNU/Linux y WindowsOS
-- Consolidando bases en ciberseguridad (Redes, protocolos, vectores de ataque, capas de seguridad, prácticas seguras).
-- Desarrollando proyectos en Rust orientados a la seguridad.
-- Escalar mi canal de tecnología.
+- Consolidating advanced knowledge of GNU/Linux and WindowsOS operating systems.
+- Strengthening cybersecurity foundations (networks, protocols, attack vectors, security layers, secure practices).
+- Developing security-oriented projects in Rust.
+- Developing web proyect's.
+- Scaling my YT channel.
 
 ## 🤝 Collaboration
 - Estoy abierto a colaborar en proyectos de **open source**, especialmente relacionados con seguridad, automatización y educación tecnológica.
@@ -70,7 +71,6 @@ heigh="40"/>
 - GitHub: [RicardoTapiaDev](https://github.com/RicardoTapiaDev)
 - LinkedIn: [*(agrega tu enlace si lo tienes)*](https://www.linkedin.com/in/ricardo-javier-tapia-contreras-125474257/)
 - Email: *rtapiacontreras26@gmail.com*
-- YouTube: *https://www.youtube.com/@StarSecDev*
 
 ---
 ⭐️ Created by [RicardoTapiaDev](https://github.com/RicardoTapiaDev)
