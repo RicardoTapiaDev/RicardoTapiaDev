@@ -50,6 +50,11 @@
 - **I create technology-focused content** 🎥 *https://www.youtube.com/@StarSecDev*
 - **Linux Workflow Automation** 🐧 I create custom scripts designed to streamline repetitive tasks and give a boost productivity in Linux environments. [Repository](#)
 
+## 📃 Academic Certification's
+- Basic Software Design
+- Basic Programming
+- CISCO IT Essentials
+
 ## 📈 Current Goals
 - Test code (Always)
 - Consolidating advanced knowledge of GNU/Linux and WindowsOS operating systems.
@@ -59,10 +64,10 @@
 - Scaling my YT channel.
 
 ## 🤝 Collaboration
-- Estoy abierto a colaborar en proyectos de **open source**, especialmente relacionados con seguridad, automatización y educación tecnológica.
-- También me interesa participar en iniciativas de divulgación científica y realizar investigaciones acerca de tecnología y ciencia.
+I am open to collaborating on open source projects, especially those related to security, automation, and technological innovation.
+also...
+I am also interested in participating in science outreach initiatives and conducting research on technology and science.
 
 ## 📫 Contact
 - GitHub: [RicardoTapiaDev](https://github.com/RicardoTapiaDev)
-- LinkedIn: [*(agrega tu enlace si lo tienes)*](https://www.linkedin.com/in/ricardo-javier-tapia-contreras-125474257/)
 - Email: *rtapiacontreras26@gmail.com*
